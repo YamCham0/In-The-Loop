@@ -2,6 +2,9 @@
   "name": "in-the-loop",
   "version": "1.0.0",
   "description": "A website to help people practice loops",
+  "engines": {
+    "node": "18.x"
+},
   "main": "server/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
